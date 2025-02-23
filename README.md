@@ -7,10 +7,10 @@
 - 擅长学科:数学 物理
 - 擅长的编程语言:C++ java shell
 ### Friend
-[宝宝:FengYing](https://github.com/FengYing1314) <br>
-[死党:XShe](https://github.com/XShePlus) <br>
-[朋友:shrairo](https://github.com/shrairo) <br>
-[朋友:TimeLine](https://github.com/Nep-Timeline) <br>
+宝宝:FengYing[点我跳转](https://github.com/FengYing1314) <br>
+死党:XShe[点我跳转](https://github.com/XShePlus) <br>
+朋友:shrairo[点我跳转](https://github.com/shrairo) <br>
+朋友:TimeLine[点我跳转](https://github.com/Nep-Timeline) <br>
 ### 目前拥有的设备
 - 红米Note12Turbo
 - 红米12C
