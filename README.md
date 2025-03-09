@@ -6,6 +6,7 @@
 - 性别:男
 - 擅长学科:数学 物理
 - 擅长的编程语言:C++ java shell
+- 正在学习的语言:python
 ### Friend
 宝宝:FengYing[点我跳转](https://github.com/FengYing1314) <br>
 死党:XShe[点我跳转](https://github.com/XShePlus) <br>
@@ -15,6 +16,8 @@
 - 红米Note12Turbo
 - 红米12C
 - 小米MIX3
+- 红米K20Pro
+- IQOO Z1
 ### 喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-C++-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C++) [![C++](https://img.shields.io/badge/language-shell-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/shell) 
 
