@@ -5,15 +5,16 @@
 - 年龄:16岁
 - 性别:男
 - 擅长学科:数学 物理
-- 擅长的编程语言:C++ java shell
-- 正在学习的语言:python
+- 擅长的编程语言:C++ java shell 
+- 正在学习的语言:python C语言
 ### Friend
-宝宝:FengYing[点我跳转](https://github.com/FengYing1314) <br>
+老婆:FengYing[点我跳转](https://github.com/FengYing1314) <br>
 死党:XShe[点我跳转](https://github.com/XShePlus) <br>
 朋友:shrairo[点我跳转](https://github.com/shrairo) <br>
 朋友:TimeLine[点我跳转](https://github.com/Nep-Timeline) <br>
 ### 目前拥有的设备
 - 红米Note12Turbo
+- 红米Note7
 - 红米12C
 - 小米MIX3
 - 红米K20Pro
