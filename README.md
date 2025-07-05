@@ -5,8 +5,8 @@
 - 年龄:16岁
 - 性别:男
 - 擅长学科:数学 物理
-- 擅长的编程语言:C++ java shell 
-- 正在学习的语言:python C语言
+- 擅长的编程语言:C++ java shell C
+- 正在学习的语言:python
 ### Friend
 老婆:FengYing[点我跳转](https://github.com/FengYing1314) <br>
 死党:XShe[点我跳转](https://github.com/XShePlus) <br>
