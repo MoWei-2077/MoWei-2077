@@ -7,9 +7,9 @@
 - 擅长学科:数学 物理
 - 擅长的编程语言: C++ java shell C 
 - 擅长部分单片机开发: STM32 CC2530
-- 正在学习的语言:python
+- 正在学习的语言:python C#
 ### Friend
-老婆:FengYing[点我跳转](https://github.com/FengYing1314) <br>
+朋友:FengYing[点我跳转](https://github.com/FengYing1314) <br>
 死党:XShe[点我跳转](https://github.com/XShePlus) <br>
 朋友:shrairo[点我跳转](https://github.com/shrairo) <br>
 朋友:TimeLine[点我跳转](https://github.com/Nep-Timeline) <br>
@@ -20,7 +20,7 @@
 - 小米MIX3
 - 红米K20Pro
 - IQOO Z1
-### 喜爱的编程语言
+### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-C++-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C++) [![C++](https://img.shields.io/badge/language-shell-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/shell) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoWei-2077)](https://github.com/anuraghazra/github-readme-stats)
